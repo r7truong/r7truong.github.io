@@ -2,7 +2,11 @@ body {
     background: rgba(0, 0, 0, 0.9);
     margin: 0;
     color: #fff;
-    font-family: "Segoe UI", sans-serif;
+    font-family: "Montserrat", sans-serif;
+}
+
+.title {
+    font-family: "Merriweather", serif;
 }
 
 .showcase::after {
